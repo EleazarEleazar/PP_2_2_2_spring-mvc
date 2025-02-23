@@ -1,0 +1,17 @@
+# Компилированные файлы класса
+*.class
+
+# Лог файлы
+*.log
+
+# Каталог сборки
+target/
+
+# Настройки IDE
+/.idea/
+/*.iml
+/.vscode/
+/*.suo
+/*.user
+/*.userosscache
+/*.sln.docstates
